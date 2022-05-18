@@ -46,13 +46,11 @@ section{
 
 .main{
     width: 100%;
-    min-height: 90vh;
-    display: flex;
+    min-height: 100vh;
     align-items: center;
     background: url(images/IMG_20211115_113807.jpg) no-repeat;
     background-size: cover;
     background-position: center;
-    background-attachment: fixed;
     
 }
 
@@ -62,25 +60,11 @@ section{
     font-size: 3.1em;
     font-weight: 700;
 }
-.main h2 span{
-    display: inline-block;
-    margin-top: 10px;
-    color: rgb(92, 68, 3);
-    font-size: 1.2em;
-    font-weight: 500;
-}
+
 .main h3 {
     color: rgb(0, 0, 0);
     font-size: 2em;
-    font-weight: 700;
-    letter-spacing: 1px;
-    margin-top: 10px;
-    margin-bottom: 30px;
-}
-.main h4 {
-    color: rgb(0, 0, 0);
-    font-size: 2em;
-    font-weight: 700;
+    font-weight: 800;
     letter-spacing: 1px;
     margin-top: 10px;
     margin-bottom: 30px;
